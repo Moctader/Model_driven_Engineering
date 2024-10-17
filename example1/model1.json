@@ -1,0 +1,20 @@
+{
+    "classes": [
+      {
+        "name": "Person",
+        "attributes": {
+          "name": "str",
+          "age": "int"
+        }
+      },
+      {
+        "name": "Employee",
+        "attributes": {
+          "name": "str",
+          "age": "int",
+          "employee_id": "str"
+        }
+      }
+    ]
+  }
+  
